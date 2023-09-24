@@ -1,5 +1,6 @@
  with User Authentication 
-
+## Intruduction
+    User authentication is the process of securing user information through the use of some parameters like username, password, and more. This helps the user to access his perks and features on a particular website. Such authentication is used almost everywhere today. Some examples would be banking, booking tickets, online video streaming platforms, etc. We will be using React JS, a Javascript frontend library, and Auth0, a framework that will help us in making our authentication user-friendly as well as secure.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
